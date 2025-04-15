@@ -4,7 +4,7 @@ This repository contains the additional results of the article entitled "Determi
 ## Repository content
 * **Algorithm results**: the confusion matrices (in .pdf format) of the tested algorithms, as well as the calculation of the metrics accuracy, precision, recall and weighted average f1-score. 
 * **Algorithm C4.5**: a .txt file is provided with the rules of the best model obtained as well as a graphical representation of it in .pdf format. Also available in this directory are the results of the classification performance metrics of this algorithm.
-* **Dataset**: the histograms of the database are available, as well as the database used in the article after the transformation of the data proposed in the manuscript.
+* **Dataset**: the dataset data distribution and correlation are available, as well as the database used in the article after the transformation of the data proposed in the manuscript.
 
 ## How to cite this
 More information about the aim of our work can be found in our paper. If you use this dataset, make sure you cite this work as:
