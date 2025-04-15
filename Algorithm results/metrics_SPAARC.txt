@@ -1,0 +1,13 @@
+===============
+SPAARC
+===============
+                   precision    recall  f1-score   support
+
+flowering-stage-1     0.8947    0.9067    0.9007       150
+flowering-stage-2     0.8125    0.8667    0.8387        60
+   post-flowering     0.8846    0.9200    0.9020        25
+    pre-flowering     0.8378    0.7045    0.7654        44
+
+         accuracy                         0.8674       279
+        macro avg     0.8574    0.8495    0.8517       279
+     weighted avg     0.8672    0.8674    0.8661       279

@@ -1,0 +1,13 @@
+===============
+SVM
+===============
+                   precision    recall  f1-score   support
+
+flowering-stage-1     0.8654    0.9000    0.8824       150
+flowering-stage-2     0.8519    0.7667    0.8070        60
+   post-flowering     1.0000    0.8800    0.9362        25
+    pre-flowering     0.7660    0.8182    0.7912        44
+
+         accuracy                         0.8566       279
+        macro avg     0.8708    0.8412    0.8542       279
+     weighted avg     0.8589    0.8566    0.8566       279

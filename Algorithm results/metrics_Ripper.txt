@@ -1,0 +1,13 @@
+===============
+Ripper
+===============
+                   precision    recall  f1-score   support
+
+flowering-stage-1     0.8701    0.8933    0.8816       150
+flowering-stage-2     0.7679    0.7167    0.7414        60
+   post-flowering     0.8750    0.8400    0.8571        25
+    pre-flowering     0.7333    0.7500    0.7416        44
+
+         accuracy                         0.8280       279
+        macro avg     0.8116    0.8000    0.8054       279
+     weighted avg     0.8270    0.8280    0.8272       279

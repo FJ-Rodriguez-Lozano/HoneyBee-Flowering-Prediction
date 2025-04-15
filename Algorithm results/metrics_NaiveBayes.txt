@@ -1,0 +1,13 @@
+===============
+NaiveBayes
+===============
+                   precision    recall  f1-score   support
+
+flowering-stage-1     0.8542    0.8200    0.8367       150
+flowering-stage-2     0.6753    0.8667    0.7591        60
+   post-flowering     0.8400    0.8400    0.8400        25
+    pre-flowering     0.7879    0.5909    0.6753        44
+
+         accuracy                         0.7957       279
+        macro avg     0.7893    0.7794    0.7778       279
+     weighted avg     0.8040    0.7957    0.7949       279

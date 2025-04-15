@@ -1,0 +1,13 @@
+===============
+PART
+===============
+                   precision    recall  f1-score   support
+
+flowering-stage-1     0.8910    0.9267    0.9085       150
+flowering-stage-2     0.8305    0.8167    0.8235        60
+   post-flowering     0.9565    0.8800    0.9167        25
+    pre-flowering     0.8293    0.7727    0.8000        44
+
+         accuracy                         0.8746       279
+        macro avg     0.8768    0.8490    0.8622       279
+     weighted avg     0.8741    0.8746    0.8738       279

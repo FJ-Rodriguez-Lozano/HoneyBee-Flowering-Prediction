@@ -1,0 +1,13 @@
+===============
+RandomForest
+===============
+                   precision    recall  f1-score   support
+
+flowering-stage-1     0.8875    0.9467    0.9161       150
+flowering-stage-2     0.8909    0.8167    0.8522        60
+   post-flowering     0.8846    0.9200    0.9020        25
+    pre-flowering     0.8684    0.7500    0.8049        44
+
+         accuracy                         0.8853       279
+        macro avg     0.8829    0.8583    0.8688       279
+     weighted avg     0.8850    0.8853    0.8836       279

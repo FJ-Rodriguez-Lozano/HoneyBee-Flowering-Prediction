@@ -1,0 +1,13 @@
+===============
+Neural Network
+===============
+                   precision    recall  f1-score   support
+
+flowering-stage-1     0.8773    0.9533    0.9137       150
+flowering-stage-2     0.8679    0.7667    0.8142        60
+   post-flowering     0.8462    0.8800    0.8627        25
+    pre-flowering     0.7838    0.6591    0.7160        44
+
+         accuracy                         0.8602       279
+        macro avg     0.8438    0.8148    0.8267       279
+     weighted avg     0.8577    0.8602    0.8566       279
