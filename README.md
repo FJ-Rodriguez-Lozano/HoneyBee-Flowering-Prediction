@@ -12,7 +12,7 @@ Latex .bib entry:
 @article{Andres_Gersnoviez_2023,
 	doi = {N/A},
 	url = {N/A},
-	year = 2023,
+	year = 2025,
 	month = {N/A},
 	publisher = {N/A},
 	author = {Andr{\'{e}}s Gersnoviez and Francisco J. Rodriguez-Lozano and Mar\'{\i}a Brox and Jos{\'{e}} Moreno-Carbonell and Manuel Ortiz-Lopez and Jos{\'{e}} M. Flores},
