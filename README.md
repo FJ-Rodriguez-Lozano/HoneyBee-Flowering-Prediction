@@ -3,7 +3,7 @@ This repository contains the additional results of the article entitled "Determi
 
 ## Repository content
 * **Algorithm results**: the confusion matrices (in .pdf format) of the tested algorithms, as well as the calculation of the metrics accuracy, precision, recall and weighted average f1-score. 
-* **Algorithm C4.5**: a .txt file is provided with the rules of the best model obtained as well as a graphical representation of it in .pdf format. Also available in this directory are the results of the classification performance metrics of this algorithm.
+* **Algorithm C4.5**: a .txt file is provided with the rules of the best model obtained, a graphical representation of it in .pdf format, and the results of the classification performance metrics of this algorithm. Also this folder contain the java code implementation of c4.5 using weka library 3.8.6.
 * **Dataset**: the dataset data distribution and correlation are available, as well as the database used in the article after the transformation of the data proposed in the manuscript. Also available are the patitions made to the database to carry out the cross validation of 10 folds.
 
 ## How to cite this
