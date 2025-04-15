@@ -1,4 +1,4 @@
-# Flowering-Stage-ML
+# HoneyBee-Flowering-Prediction
 This repository contains the additional results of the article entitled "Determination of flowering stage based on artificial intelligence and the daily weight of bee hives". Specifically, the following information is provided:
 
 ## Repository content
