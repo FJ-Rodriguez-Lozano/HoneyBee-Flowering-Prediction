@@ -1,0 +1,38 @@
+@relation Flowering2016-weka.filters.supervised.instance.StratifiedRemoveFolds-S1-N10-F10
+
+@attribute 'Weight Diff' numeric
+@attribute 'Hour min' numeric
+@attribute 'Hour max' numeric
+@attribute 'Dur min' numeric
+@attribute 'Dur max' numeric
+@attribute Stage {pre-flowering,flowering-stage-1,flowering-stage-2,post-flowering}
+
+@data
+
+-0.2,21.666003,15.094077,5.602787,0.083624,pre-flowering
+-0.2,18.293706,9.86014,4.447552,1.174825,pre-flowering
+-0.1,18.480836,15.1777,0,0.250871,pre-flowering
+0,11.707317,18.209059,0.66899,4.933798,pre-flowering
+0.166667,10.388811,22.878576,1.51049,2.181818,flowering-stage-2
+0.033333,7.068493,22.60274,0.164384,1.643836,flowering-stage-2
+0.533333,9.533101,22.87108,0.334495,1.58885,flowering-stage-2
+0.683333,9.74216,23.121951,0.250871,1.839721,flowering-stage-2
+0.7,7.275261,22.243902,0.334495,0,flowering-stage-2
+0.12,7.056338,21.507042,0.422535,7.43662,flowering-stage-2
+0.183333,10.707815,22.327526,1.756098,1.672474,flowering-stage-1
+-0.06,10.909091,20.769231,1.174825,1.426573,flowering-stage-1
+0.8,11.581882,22.034843,1.421603,3.930314,flowering-stage-1
+1,11.874564,22.202091,0,1.756098,flowering-stage-1
+0.6,11.832753,21.427938,2.090592,3.010453,flowering-stage-1
+0.46,8.957027,22.703833,3.010453,2.592334,flowering-stage-1
+0.5,12.094406,22.78022,0.755245,2.685315,flowering-stage-1
+0.8,11.581882,22.327526,0.919861,1.003484,flowering-stage-1
+0.5,10.927825,22.87108,3.428571,2.25784,flowering-stage-1
+-0.1,10.834187,4.212757,2.843206,8.195122,flowering-stage-1
+0.5,11.623693,21.324042,0,1.170732,flowering-stage-1
+0.08,17.310105,21.156794,0.167247,1.672474,flowering-stage-1
+0.32,11.244755,21.734266,1.846154,3.188811,flowering-stage-1
+0,13.714286,20.445993,0,0.418118,flowering-stage-1
+0.62,11.243206,21.700348,1.672474,0.418118,flowering-stage-1
+0.06,7.02439,16.901278,0.167247,2.090592,post-flowering
+-0.116667,7.108014,15.972125,0.167247,0.501742,post-flowering
