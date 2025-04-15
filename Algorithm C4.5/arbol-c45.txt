@@ -1,0 +1,33 @@
+J48 pruned tree
+------------------
+
+Hour min <= 10.035211
+|   Hour max <= 20.627178
+|   |   Dur min <= 2.341463: post-flowering (23.0)
+|   |   Dur min > 2.341463: pre-flowering (4.0)
+|   Hour max > 20.627178
+|   |   Dur min <= 2.759582: flowering-stage-2 (49.0/2.0)
+|   |   Dur min > 2.759582
+|   |   |   Weight Diff <= 0.42: flowering-stage-2 (5.0/1.0)
+|   |   |   Weight Diff > 0.42: flowering-stage-1 (6.0)
+Hour min > 10.035211
+|   Hour max <= 19.860627
+|   |   Weight Diff <= 0.12
+|   |   |   Dur max <= 6.689895: pre-flowering (30.0/1.0)
+|   |   |   Dur max > 6.689895: flowering-stage-1 (3.0/1.0)
+|   |   Weight Diff > 0.12: flowering-stage-1 (5.0/1.0)
+|   Hour max > 19.860627
+|   |   Dur min <= 3.692308
+|   |   |   Weight Diff <= 0.3
+|   |   |   |   Dur max <= 3.6: flowering-stage-1 (38.0/3.0)
+|   |   |   |   Dur max > 3.6: pre-flowering (3.0)
+|   |   |   Weight Diff > 0.3: flowering-stage-1 (96.0/2.0)
+|   |   Dur min > 3.692308
+|   |   |   Weight Diff <= 0.3
+|   |   |   |   Hour min <= 13.248382: flowering-stage-2 (6.0/1.0)
+|   |   |   |   Hour min > 13.248382: pre-flowering (3.0/1.0)
+|   |   |   Weight Diff > 0.3: flowering-stage-1 (8.0/1.0)
+
+Number of Leaves  : 	14
+
+Size of the tree : 	27
